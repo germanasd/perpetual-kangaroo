@@ -104,19 +104,7 @@
             }
         ],
         "content": "&copy;© 2021 <a href=\"https://portiera.in.ua\" target=\"_blank\" rel=\"noopener\">Portiera.in.ua</a>. Продвижение <a href=\"https://industriapro.com\" target=\"_blank\" rel=\"noopener\">industriapro.com</a>",
-        "links": [
-            {
-                "label": "0997737719",
-                "url": "tel:+380997737719",
-                "style": "primary",
-                "has_icon": true,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "domain": "https://perpetual-kangaroo-db4f8.netlify.app",
     "title": "Студия штор Portiera.in.ua",
