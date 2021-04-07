@@ -44,7 +44,7 @@ sections:
           студии "Portiera".
       - actions:
           - label: Связаться
-            url: /about
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right
