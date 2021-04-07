@@ -234,15 +234,21 @@ sections:
     background_image_position: center center
     background_image_repeat: repeat
     type: cta_section
-    content: >
+    content: >+
       **Напишите или позвоните и мы договоримся о встрече и подберем шторы для
       вас**
 
 
-      tel:+380997737719
+      Позвонить [**0997737719**](tel:+380997737719)
 
 
       Написать в [**Viber**]()
+
+
+      Написать в [**Telegram**]()
+
+
+
   - title: Рекомендации
     content: >
       ![](/images/energetic-sun.jpeg)   ![](/images/caring-aspen.jpeg)  
