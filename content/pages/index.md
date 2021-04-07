@@ -214,7 +214,7 @@ sections:
   - title: Вам нужны шторы?
     actions:
       - label: Связаться
-        url: '#'
+        url: co
         style: primary
         has_icon: false
         icon: arrow-left
