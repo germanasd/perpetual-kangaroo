@@ -222,17 +222,6 @@ sections:
           Обсуждаем с вами детали и нюансы - я задам несколько уточняющих
           вопросов для более точного понимания ваших пожеланий
         title_align: center
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
