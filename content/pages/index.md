@@ -39,7 +39,7 @@ sections:
             icon_position: right
         image: images/BC6144DF-E0F9-494E-8AE2-A237F5D21726.jpeg
         image_alt: Feature 1 illustration
-        media_position: bottom
+        media_position: right
         media_width: thirty-three
         align: center
       - title: Online Store Management
