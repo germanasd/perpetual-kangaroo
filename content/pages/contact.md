@@ -21,7 +21,7 @@ sections:
     form_fields:
       - input_type: text
         name: Имя
-        label: Ваше Имя
+        label: Имя
         default_value: Ваше Имя
         is_required: true
       - input_type: email
