@@ -206,7 +206,7 @@ sections:
     grid_items:
       - title: ШАГ 1
         title_align: center
-        content_align: center
+        content_align: right
         actions: []
         actions_align: left
         actions_width: auto
