@@ -237,9 +237,9 @@ sections:
     content: |
       Напишите или позвоните и мы договоримся о встрече и подберем шторы для вас
 
-      **tel:0997737719**
+      tel:+380997737719
 
-      **Написать в **[**Viber**]()
+      Написать в [**Viber**]()
     background_image: images/44839526-A26D-426B-8726-525AD73091F5.jpeg
   - type: form_section
     content_align: center
