@@ -26,7 +26,9 @@ sections:
   - type: features_section
     title: 'Я и мои мастера создаем шторы и текстиль по вашему индивидуальному заказу:'
     features:
-      - title: Content Creation
+      - title: >-
+          Шторы - это украшение интерьера, защита от солнца и посторонних
+          взглядов
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
