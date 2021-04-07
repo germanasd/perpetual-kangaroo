@@ -260,7 +260,7 @@ sections:
         is_required: false
       - input_type: textarea
         name: message
-        label: Message
+        label: СООБЩЕНИЕ
         default_value: Your message
       - input_type: checkbox
         name: consent
