@@ -72,6 +72,7 @@ sections:
         image_alt: Feature 3 illustration
         media_position: top
         media_width: thirty-three
+        align: center
     feature_padding_vert: large
     align: center
     background_color: none
