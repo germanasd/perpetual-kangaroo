@@ -1,5 +1,5 @@
 ---
-title: Home
+title: C
 sections:
   - type: hero_section
     title: Приветствую Вас на сайте студии штор "Portiera"
