@@ -248,7 +248,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: ШАГ 4
-        subtitle: lorem-ipsum
+        subtitle: 'Я просчитываю точную стоимость штор, отправляю вам для ознакомления'
         title_align: left
         content: >-
           ## Lorem ipsum
