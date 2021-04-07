@@ -3,7 +3,7 @@
     "layout_type": "full-width",
     "style": "bold",
     "palette": "blue",
-    "mode": "light",
+    "mode": "dark",
     "base_font": "serif",
     "header": {
         "title": "Personal Theme",
