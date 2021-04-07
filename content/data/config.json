@@ -1,6 +1,6 @@
 {
     "path_prefix": "/",
-    "layout_type": "full-width",
+    "layout_type": "boxed",
     "style": "bold",
     "palette": "blue",
     "mode": "dark",
