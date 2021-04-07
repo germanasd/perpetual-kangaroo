@@ -70,6 +70,7 @@ sections:
         media_position: right
         media_width: fifty
         align: center
+        content: "Some Markdown text with\_some\_*blue*\_text.\\`\_some \\*This is Blue italic.\\* text\_\\`\\`\\`\_some \\*\\*This is Red Bold.\\*\\* text\_\\`\\`\\`\n"
     feature_padding_vert: large
     align: center
     background_color: none
