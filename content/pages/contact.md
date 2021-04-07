@@ -22,7 +22,7 @@ sections:
       - input_type: text
         name: Имя
         label: Ваше Имя
-        default_value: Your name
+        default_value: Ваше Имя
         is_required: true
       - input_type: email
         name: email
