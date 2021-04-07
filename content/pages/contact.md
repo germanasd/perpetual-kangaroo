@@ -52,7 +52,7 @@ sections:
     padding_bottom: none
     background_color: none
     background_image_repeat: repeat
-    background_image_size: contain
+    background_image_size: cover
     background_image_opacity: 0
     title_align: left
     has_border: true
