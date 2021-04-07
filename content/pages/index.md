@@ -55,7 +55,7 @@ sections:
         image: images/66DE992E-4B4D-4F86-BDED-DD60454CAD05.jpeg
         image_alt: Feature 2 illustration
         media_position: right
-        media_width: fourty
+        media_width: fifty
         title: >-
           Шторы - это украшение интерьера, защита от солнца и посторонних
           взглядов
