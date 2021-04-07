@@ -198,9 +198,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-  - title: >-
-      Каждые шторы - это индивидуальный текстильный проект, разработанный до
-      мелочей  Как Заказать Шторы?
+  - title: Как Заказать Шторы?
     subtitle: Мы не продаем готовые изделия
     actions: []
     grid_items:
