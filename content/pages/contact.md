@@ -50,7 +50,7 @@ sections:
     align_vert: top
     padding_top: none
     padding_bottom: none
-    background_color: primary
+    background_color: none
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
