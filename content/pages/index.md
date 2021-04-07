@@ -218,7 +218,9 @@ sections:
         type: grid_item
         subtitle: 'Вы присылаете фото окон, озвучиваете свои пожелания и размеры'
       - title: ШАГ 2
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Обсуждаем с вами детали и нюансы - я задам несколько уточняющих
+          вопросов для более точного понимания ваших пожеланий
         title_align: left
         content: >-
           ## Lorem ipsum
