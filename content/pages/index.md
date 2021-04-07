@@ -289,6 +289,13 @@ sections:
         label: Email
         default_value: ВАШ email АДРЕС
         is_required: false
+      - input_type: tel
+        name: Тел
+        label: Номер телефона
+        default_value: Ваш номер телефона
+        options: []
+        is_required: true
+        type: form_field
       - input_type: textarea
         name: message
         label: СООБЩЕНИЕ
@@ -299,13 +306,6 @@ sections:
           Нажимая на кнопку, вы даете согласие на обработку своих персональных
           данных и соглашаетесь с Политикой конфиденциальности
         is_required: true
-      - input_type: tel
-        name: Тел
-        label: Номер телефона
-        default_value: Ваш номер телефона
-        options: []
-        is_required: true
-        type: form_field
     submit_label: ОТПРАВИТЬ
     align_vert: top
     padding_top: small
