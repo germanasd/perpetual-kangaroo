@@ -43,7 +43,7 @@ sections:
         label: Номер телефона
         default_value: Ваш номер телефона
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         name: тел
     submit_label: Send Message
