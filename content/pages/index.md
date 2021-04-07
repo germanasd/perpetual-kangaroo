@@ -42,10 +42,7 @@ sections:
         media_position: right
         media_width: fifty
         align: center
-      - subtitle: >-
-          Шторы - это украшение интерьера, защита от солнца и посторонних
-          взглядов
-        actions:
+      - actions:
           - label: Learn More
             url: /about
             style: secondary
