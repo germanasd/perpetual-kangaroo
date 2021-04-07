@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Благодарю вас!
     subtitle: >-
-      Thank you for contacting me. I will get back in touch with you soon. Have
-      a great day!
+      Спасибо за то, что связались со мной. Я скоро с Вами свяжусь. Хорошего
+      дня!
     actions:
       - label: Back to homepage
         url: /
