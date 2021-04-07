@@ -133,17 +133,10 @@ sections:
     background_image_opacity: 12
   - title: Примеры Работ
     features:
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: >
+          ![](/images/1B401698-80C9-4CB3-80A0-2FFACA3EEFAE.jpeg)   
+          ![](/images/2A02D513-6AA7-46E9-852A-4EB6F1DC6D53.jpeg)  
+          ![](/images/03BCC0E8-7BFF-4840-9EA5-A58F52954211.jpeg)
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
