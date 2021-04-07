@@ -236,7 +236,7 @@ sections:
         subtitle: >-
           Встреча у вас на объекте или у меня в офисе, я предлагаю варианты
           тканей, вы выбираете
-        title_align: left
+        title_align: right
         content: >-
           ## Lorem ipsum
 
