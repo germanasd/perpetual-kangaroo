@@ -45,7 +45,9 @@ sections:
       - title: >-
           Шторы - это украшение интерьера, защита от солнца и посторонних
           взглядов
-        subtitle: 'Product updates, inventory and pricing.'
+        subtitle: >-
+          Шторы - это украшение интерьера, защита от солнца и посторонних
+          взглядов
         actions:
           - label: Learn More
             url: /about
