@@ -359,8 +359,6 @@ seo:
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:description'
-      value: The preview of the Personal theme
     - name: 'twitter:image'
       value: /images/scientific-rosemary.jpeg
       relativeUrl: true
