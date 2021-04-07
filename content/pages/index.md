@@ -234,6 +234,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    content: |
+      Напишите или позвоните и мы договоримся о встрече и подберем шторы для вас
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
