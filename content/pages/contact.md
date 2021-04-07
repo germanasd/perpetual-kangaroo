@@ -56,7 +56,6 @@ sections:
     background_image_opacity: 0
     title_align: left
     has_border: true
-    background_image: images/BAEAD16B-6C64-4B77-9FF9-D035C13D3C6B.jpeg
 seo:
   title: Contact
   description: This is the contact page
