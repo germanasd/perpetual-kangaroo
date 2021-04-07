@@ -31,7 +31,7 @@ sections:
           работу, согласно техническому заданию, опытным мастерам по пошиву
           студии "Portiera".
         actions:
-          - label: See Writing Samples
+          - label: Связаться
             url: /faq
             style: primary
             has_icon: true
