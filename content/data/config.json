@@ -27,7 +27,8 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "title": "Студия штор "
     },
     "footer": {
         "logo_alt": "Alyvia logo",
