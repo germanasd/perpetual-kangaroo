@@ -1,5 +1,5 @@
 ---
-title: Обо и
+title: Обо Мне
 seo:
   title: About
   description: This is the about page
