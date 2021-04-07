@@ -27,7 +27,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Ваш email address
+        default_value: Ваш email адрес
         is_required: true
       - input_type: textarea
         name: message
