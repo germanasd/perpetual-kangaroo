@@ -16,7 +16,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: large
-    padding_bottom: small
+    padding_bottom: medium
     background_color: none
     background_image: images/watercolor.png
     background_image_repeat: repeat
