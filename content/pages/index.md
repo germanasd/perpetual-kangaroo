@@ -353,9 +353,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Stackbit Personal Theme
-      keyName: property
     - name: 'og:description'
       value: The preview of the Personal theme
       keyName: property
