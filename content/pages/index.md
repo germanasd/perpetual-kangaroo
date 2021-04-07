@@ -70,7 +70,7 @@ sections:
             icon_position: right
         image: images/BF3AAA50-D187-45D9-A16E-F1056EECAC37.jpeg
         image_alt: Feature 3 illustration
-        media_position: left
+        media_position: right
         media_width: fifty
         align: center
     feature_padding_vert: large
