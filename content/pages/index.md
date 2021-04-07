@@ -71,12 +71,12 @@ sections:
         media_width: fifty
         align: center
         content: |
-          \`\`
-          test blue color font
 
 
 
 
+          ```
+          ```
 
           ```
           ```
