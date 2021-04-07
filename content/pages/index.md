@@ -264,7 +264,7 @@ sections:
         subtitle: >-
           После согласования и утверждения штор вы вносите предоплату 70%
           наличным или безналичным расчетом
-        title_align: left
+        title_align: center
         content_align: center
         actions: []
         actions_align: center
