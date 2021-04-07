@@ -217,7 +217,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: 'Вы присылаете фото окон, озвучиваете свои пожелания и размеры'
-      - title: lorem-ipsum
+      - title: ШАГ 2
         subtitle: lorem-ipsum
         title_align: left
         content: >-
