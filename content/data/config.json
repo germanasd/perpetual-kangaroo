@@ -90,17 +90,6 @@
                 "icon": "instagram",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "Telegram",
-                "url": "tg://resolve?domain=380997737719",
-                "style": "primary",
-                "has_icon": true,
-                "icon": "instagram",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "content": "&copy;© 2021 <a href=\"https://portiera.in.ua\" target=\"_blank\" rel=\"noopener\">Portiera.in.ua</a>. Продвижение <a href=\"https://industriapro.com\" target=\"_blank\" rel=\"noopener\">industriapro.com</a>"
