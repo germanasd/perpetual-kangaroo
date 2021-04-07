@@ -48,7 +48,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    title_align: center
+    title_align: left
 seo:
   title: Contact
   description: This is the contact page
