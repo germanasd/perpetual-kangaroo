@@ -71,7 +71,7 @@ sections:
         image: images/BF3AAA50-D187-45D9-A16E-F1056EECAC37.jpeg
         image_alt: Feature 3 illustration
         media_position: top
-        media_width: fourty
+        media_width: thirty-three
     feature_padding_vert: large
     align: center
     background_color: none
