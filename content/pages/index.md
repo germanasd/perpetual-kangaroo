@@ -299,6 +299,13 @@ sections:
           Нажимая на кнопку, вы даете согласие на обработку своих персональных
           данных и соглашаетесь с Политикой конфиденциальности
         is_required: true
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: ОТПРАВИТЬ
     align_vert: top
     padding_top: small
