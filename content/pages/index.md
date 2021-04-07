@@ -280,7 +280,7 @@ sections:
           Далее происходит выполнение заказа в оговоренные сроки. После
           получения штор вы вносите оставшиеся 30% стоимости и мы радуемся
           вместе вашим новым красивым шторам
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
