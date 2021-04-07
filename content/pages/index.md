@@ -28,7 +28,7 @@ sections:
     features:
       - actions:
           - label: Связаться
-            url: /faq
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right
