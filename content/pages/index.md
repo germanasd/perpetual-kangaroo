@@ -273,7 +273,7 @@ sections:
     padding_top: small
     padding_bottom: small
     background_color: secondary
-    background_image: images/EFE4E933-5CE0-41F7-8246-F356E0035B34.jpeg
+    background_image: images/44839526-A26D-426B-8726-525AD73091F5.jpeg
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 50
