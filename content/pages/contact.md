@@ -7,6 +7,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
+    title: Вам нужны шторы?
   - type: form_section
     content: >-
       ## Pricing
