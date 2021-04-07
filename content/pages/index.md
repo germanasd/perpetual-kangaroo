@@ -342,7 +342,7 @@ sections:
     background_image: images/BAEAD16B-6C64-4B77-9FF9-D035C13D3C6B.jpeg
     background_image_position: center center
 seo:
-  title: Stackbit Personal Theme
+  title: Студия Дизайн пошива Штор на заказ Харьков
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
