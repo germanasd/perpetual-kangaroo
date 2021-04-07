@@ -86,7 +86,8 @@ sections:
       - content: >
           ![](/images/1B401698-80C9-4CB3-80A0-2FFACA3EEFAE.jpeg)   
           ![](/images/2A02D513-6AA7-46E9-852A-4EB6F1DC6D53.jpeg)  
-          ![](/images/03BCC0E8-7BFF-4840-9EA5-A58F52954211.jpeg)
+          ![](/images/03BCC0E8-7BFF-4840-9EA5-A58F52954211.jpeg)![](/images/3ECC54A7-CE1A-4C37-9161-C681A53BAA8E.jpeg)  
+          ![](/images/6DA405F1-BE36-4330-A984-8710EE2B8C5E.jpeg)   
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom
