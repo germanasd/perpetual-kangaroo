@@ -261,7 +261,7 @@ sections:
       - input_type: textarea
         name: message
         label: СООБЩЕНИЕ
-        default_value: ВЫ
+        default_value: ВАШЕ СООБЩЕНИЕ
       - input_type: checkbox
         name: consent
         label: >-
