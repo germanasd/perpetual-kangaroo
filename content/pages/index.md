@@ -13,7 +13,7 @@ sections:
     image: images/photo_2021-03-30 12.27.33.jpeg
     image_alt: A smiling woman
     media_position: right
-    media_width: sixty
+    media_width: fourty
     align: center
     padding_top: none
     padding_bottom: small
