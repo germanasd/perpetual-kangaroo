@@ -42,7 +42,9 @@ sections:
         media_position: right
         media_width: fifty
         align: center
-      - title: Online Store Management
+      - title: >-
+          Шторы - это украшение интерьера, защита от солнца и посторонних
+          взглядов
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
           Managing an online business is a full-time job. I will make sure your
