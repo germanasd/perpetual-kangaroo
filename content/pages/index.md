@@ -282,7 +282,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 0
     has_border: true
-  - title: lorem-ipsum
+  - title: Рекомендации
     content: >-
       ## Lorem ipsum
 
