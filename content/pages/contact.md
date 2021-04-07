@@ -10,22 +10,7 @@ sections:
     title: Вам нужны шторы?
     has_border: true
   - type: form_section
-    content: >-
-      ## Pricing
-
-      After a short onboarding call I will be able to provide you with ballpark
-      pricing, followed by a detailed proposal once we discuss the details. 
-
-      ### Proposal
-
-      Your proposal will include several choices in terms of pricing structure
-      and deliverable timeline.
-
-      ### Terms
-
-      If at any point you'd like to cancel our project, you are required to
-      provide a 30-day written notice, after which I will transfer all of your
-      assets to you so you can use them anytime.
+    content: "Позвонить\_[**0997737719**](tel:+380997737719)\n\nНаписать в\_**Viber**\n\nНаписать в\_**Telegram**\n"
     content_align: left
     form_position: left
     form_width: fifty
