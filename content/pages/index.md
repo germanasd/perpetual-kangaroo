@@ -261,7 +261,9 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: ШАГ 5
-        subtitle: lorem-ipsum
+        subtitle: >-
+          После согласования и утверждения штор вы вносите предоплату 70%
+          наличным или безналичным расчетом
         title_align: left
         content: >-
           ## Lorem ipsum
