@@ -205,7 +205,6 @@ sections:
     actions: []
     grid_items:
       - title: Как Заказать Шторы
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
