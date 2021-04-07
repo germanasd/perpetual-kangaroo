@@ -71,7 +71,15 @@ sections:
         media_width: fifty
         align: center
         content: |
-          \<font color='red'>test blue color font\</font>
+          \`\`
+          test blue color font
+
+
+
+
+
+          ```
+          ```
     feature_padding_vert: large
     align: center
     background_color: none
