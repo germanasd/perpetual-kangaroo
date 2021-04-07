@@ -62,7 +62,7 @@ sections:
           Красивые и стильные.Подобранные под ваш интерьер и сшитые опытными
           мастерами по вашим размерам.Из качественной ткани и фурнитуры.
         actions:
-          - label: See Past Work
+          - label: Связаться
             url: /faq
             style: primary
             has_icon: true
