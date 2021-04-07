@@ -204,7 +204,7 @@ sections:
     subtitle: Мы не продаем готовые изделия
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Как Заказать Шторы
         subtitle: lorem-ipsum
         title_align: left
         content: >-
