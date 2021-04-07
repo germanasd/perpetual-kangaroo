@@ -58,9 +58,7 @@ sections:
           взглядов
         align: center
       - title: 'Какими они будут если изготовить их на заказ:'
-        subtitle: >-
-          Красивые и стильные.Подобранные под ваш интерьер и сшитые опытными
-          мастерами по вашим размерам.Из качественной ткани и фурнитуры.
+        subtitle: '<span style="color:red">some **This is Red Bold.** text</span>'
         actions:
           - label: Связаться
             url: /faq
