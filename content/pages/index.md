@@ -276,7 +276,7 @@ sections:
     background_image: images/EFE4E933-5CE0-41F7-8246-F356E0035B34.jpeg
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 0
+    background_image_opacity: 50
     has_border: true
 seo:
   title: Stackbit Personal Theme
