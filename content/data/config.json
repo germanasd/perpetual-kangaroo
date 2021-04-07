@@ -95,7 +95,7 @@
                 "label": "0997737719",
                 "url": "tel:+380997737719",
                 "style": "primary",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "arrow-right",
                 "icon_position": "right",
                 "new_window": false,
