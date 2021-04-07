@@ -271,7 +271,7 @@ sections:
     submit_label: ОТПРАВИТЬ
     align_vert: top
     padding_top: small
-    padding_bottom: medium
+    padding_bottom: small
     background_color: primary
     background_image: images/watercolor.png
     background_image_repeat: repeat
