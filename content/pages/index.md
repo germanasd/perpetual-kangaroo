@@ -236,7 +236,7 @@ sections:
     type: cta_section
     content: |
       Напишите или позвоните и мы договоримся о встрече и подберем шторы для вас
-    background_image: images/BC6144DF-E0F9-494E-8AE2-A237F5D21726.jpeg
+    background_image: images/BF3AAA50-D187-45D9-A16E-F1056EECAC37.jpeg
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
