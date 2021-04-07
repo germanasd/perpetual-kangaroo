@@ -252,7 +252,7 @@ sections:
         title_align: left
         content_align: center
         actions: []
-        actions_align: right
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
