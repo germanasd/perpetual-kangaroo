@@ -27,7 +27,7 @@
             }
         ],
         "has_secondary_nav": true,
-        "has_anncmnt": false,
+        "has_anncmnt": true,
         "title": "Студия штор Portiera"
     },
     "footer": {
