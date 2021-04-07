@@ -337,7 +337,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 0
     has_border: true
-    background_image: images/44839526-A26D-426B-8726-525AD73091F5.jpeg
+    background_image: images/BAEAD16B-6C64-4B77-9FF9-D035C13D3C6B.jpeg
     background_image_position: center center
 seo:
   title: Stackbit Personal Theme
