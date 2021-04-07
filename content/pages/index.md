@@ -70,11 +70,13 @@ sections:
         media_position: right
         media_width: fifty
         align: center
-        content: |
+        content: >
+          #### Красивые и
+          стильные.[&#xA;](https://portiera.in.ua/contact/)Подобранные под ваш
+          интерьер и сшитые опытными мастерами по вашим размерам.
 
 
-          ```
-          ```
+          #### Из качественной ткани и фурнитуры.
     feature_padding_vert: large
     align: center
     background_color: none
