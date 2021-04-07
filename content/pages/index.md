@@ -58,7 +58,7 @@ sections:
           взглядов
         align: center
       - title: 'Какими они будут если изготовить их на заказ:'
-        subtitle: 'Your products and services, at scale.'
+        subtitle: Красивые и стильные
         actions:
           - label: See Past Work
             url: /faq
