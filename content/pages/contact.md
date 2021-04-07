@@ -48,7 +48,7 @@ sections:
         is_required: true
     submit_label: Отправить
     align_vert: top
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     background_color: primary
     background_image: images/watercolor.png
