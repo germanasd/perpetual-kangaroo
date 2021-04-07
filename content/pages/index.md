@@ -140,7 +140,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom
-        media_width: fifty
+        media_width: fourty
         align: left
         type: feature
     feature_padding_vert: small
