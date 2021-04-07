@@ -301,7 +301,7 @@ sections:
         is_required: true
       - input_type: tel
         name: Тел
-        label: lorem-ipsum
+        label: Номер телефона
         default_value: lorem-ipsum
         options: []
         is_required: false
