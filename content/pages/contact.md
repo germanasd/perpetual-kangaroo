@@ -5,7 +5,7 @@ sections:
     subtitle: Напишите или позвоните и мы договоримся о встрече и подберем шторы для вас
     align: center
     padding_top: none
-    padding_bottom: medium
+    padding_bottom: none
     background_color: none
     title: Вам нужны шторы?
   - type: form_section
