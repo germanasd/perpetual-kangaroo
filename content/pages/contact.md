@@ -31,7 +31,7 @@ sections:
         is_required: false
       - input_type: textarea
         name: message
-        label: Сооб
+        label: Сообщение
         default_value: Your message
       - input_type: checkbox
         name: consent
