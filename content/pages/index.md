@@ -80,7 +80,7 @@ sections:
           ##### Из качественной ткани и фурнитуры.
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: secondary
   - title: Примеры Работ
     features:
       - content: >
