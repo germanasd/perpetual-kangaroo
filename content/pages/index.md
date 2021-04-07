@@ -81,6 +81,29 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+  - title: Примеры Работ
+    features:
+      - content: >
+          ![](/images/1B401698-80C9-4CB3-80A0-2FFACA3EEFAE.jpeg)   
+          ![](/images/2A02D513-6AA7-46E9-852A-4EB6F1DC6D53.jpeg)  
+          ![](/images/03BCC0E8-7BFF-4840-9EA5-A58F52954211.jpeg)
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: bottom
+        media_width: fourty
+        align: center
+        type: feature
+    feature_padding_vert: small
+    align: center
+    padding_top: small
+    padding_bottom: small
+    has_border: true
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
@@ -131,29 +154,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
-  - title: Примеры Работ
-    features:
-      - content: >
-          ![](/images/1B401698-80C9-4CB3-80A0-2FFACA3EEFAE.jpeg)   
-          ![](/images/2A02D513-6AA7-46E9-852A-4EB6F1DC6D53.jpeg)  
-          ![](/images/03BCC0E8-7BFF-4840-9EA5-A58F52954211.jpeg)
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: bottom
-        media_width: fourty
-        align: center
-        type: feature
-    feature_padding_vert: small
-    align: center
-    padding_top: small
-    padding_bottom: small
-    has_border: true
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
   - type: form_section
     content: >-
       ## Let's talk
