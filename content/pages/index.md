@@ -223,7 +223,7 @@ sections:
         no_follow: false
         type: action
     actions_position: right
-    actions_width: sixty
+    actions_width: fourty
     align: left
     padding_top: medium
     padding_bottom: medium
