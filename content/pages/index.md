@@ -234,10 +234,13 @@ sections:
     background_image_position: center center
     background_image_repeat: repeat
     type: cta_section
-    content: |
-      Напишите или позвоните и мы договоримся о встрече и подберем шторы для вас
+    content: >
+      **Напишите или позвоните и мы договоримся о встрече и подберем шторы для
+      вас**
+
 
       tel:+380997737719
+
 
       Написать в [**Viber**]()
     background_image: images/44839526-A26D-426B-8726-525AD73091F5.jpeg
