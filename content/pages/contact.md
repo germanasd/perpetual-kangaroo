@@ -41,7 +41,7 @@ sections:
         is_required: true
       - input_type: tel
         label: Номер телефона
-        default_value: lorem-ipsum
+        default_value: Ваш мобильный
         options: []
         is_required: false
         type: form_field
