@@ -39,7 +39,7 @@ sections:
           Нажимая на кнопку, вы даете согласие на обработку своих персональных
           данных и соглашаетесь с Политикой конфиденциальности
         is_required: true
-      - input_type: text
+      - input_type: tel
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
