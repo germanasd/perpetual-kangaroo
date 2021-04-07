@@ -37,7 +37,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: fifty
-        align: left
+        align: right
         title: >-
           Ткани и дизайн штор подбираются и продумываются мной, и отдаются в
           работу, согласно техническому заданию, опытным мастерам по пошиву
