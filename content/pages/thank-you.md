@@ -3,9 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Благодарю вас!
-    subtitle: >-
-      Спасибо за то, что связались со мной. Я скоро с Вами свяжусь. Хорошего
-      дня!
+    subtitle: "Спасибо за то, что связались со мной. Я в ближайшее время свяжусь\_с Вами. Хорошего дня!"
     actions:
       - label: Back to homepage
         url: /
