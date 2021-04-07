@@ -256,7 +256,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: ВАШ email address
+        default_value: ВАШ email АДРЕ
         is_required: true
       - input_type: textarea
         name: message
