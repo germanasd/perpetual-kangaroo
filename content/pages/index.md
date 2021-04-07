@@ -27,8 +27,9 @@ sections:
     title: 'Я и мои мастера создаем шторы и текстиль по вашему индивидуальному заказу:'
     features:
       - subtitle: >-
-          Шторы - это украшение интерьера, защита от солнца и посторонних
-          взглядов
+          Ткани и дизайн штор подбираются и продумываются мной, и отдаются в
+          работу, согласно техническому заданию, опытным мастерам по пошиву
+          студии "Portiera".
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
