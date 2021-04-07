@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: Напишите или позвоните и мы договоримся о встрече и подберем шторы для вас
     align: center
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     background_color: none
     title: Вам нужны шторы?
