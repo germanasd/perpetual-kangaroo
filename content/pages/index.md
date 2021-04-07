@@ -58,7 +58,7 @@ sections:
           взглядов
         align: center
       - title: 'Какими они будут если изготовить их на заказ:'
-        subtitle: '<span style="color:red">some **This is Red Bold.** text</span>'
+        subtitle: '<span style="color:blue">some *This is Blue italic.* text</span>'
         actions:
           - label: Связаться
             url: /faq
