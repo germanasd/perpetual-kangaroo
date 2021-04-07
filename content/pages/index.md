@@ -43,7 +43,7 @@ sections:
           работу, согласно техническому заданию, опытным мастерам по пошиву
           студии "Portiera".
       - actions:
-          - label: Learn More
+          - label: Связаться
             url: /about
             style: secondary
             has_icon: true
