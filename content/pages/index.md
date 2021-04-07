@@ -224,7 +224,7 @@ sections:
         type: action
     actions_position: right
     actions_width: fourty
-    align: right
+    align: center
     padding_top: none
     padding_bottom: small
     has_border: true
