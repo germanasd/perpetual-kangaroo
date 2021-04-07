@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: Напишите или позвоните и мы договоримся о встрече и подберем шторы для вас
     align: center
     padding_top: medium
     padding_bottom: medium
