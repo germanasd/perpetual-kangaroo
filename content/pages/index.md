@@ -198,7 +198,9 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-  - title: Мы не продаем готовые изделия
+  - title: >-
+      Каждые шторы - это индивидуальный текстильный проект, разработанный до
+      мелочей
     subtitle: >-
       Каждые шторы - это индивидуальный текстильный проект, разработанный до
       мелочей
