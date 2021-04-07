@@ -368,4 +368,5 @@ seo:
       value: images/personal-preview.png
       relativeUrl: true
 layout: advanced
+title: 'Студия Штор '
 ---
