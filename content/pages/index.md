@@ -221,7 +221,7 @@ sections:
         subtitle: >-
           Обсуждаем с вами детали и нюансы - я задам несколько уточняющих
           вопросов для более точного понимания ваших пожеланий
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
