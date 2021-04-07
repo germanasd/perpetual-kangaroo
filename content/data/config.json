@@ -85,7 +85,7 @@
             {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/portiera.ua/",
-                "style": "secondary",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "instagram",
                 "icon_position": "center",
