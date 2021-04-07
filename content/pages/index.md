@@ -242,7 +242,7 @@ sections:
       ### СВЯЖИТЕСЬ С НАМИ!
 
       ### tel:0997737719
-    content_align: left
+    content_align: center
     form_position: right
     form_width: fifty
     form_layout: stacked
