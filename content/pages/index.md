@@ -237,17 +237,6 @@ sections:
           Встреча у вас на объекте или у меня в офисе, я предлагаю варианты
           тканей, вы выбираете
         title_align: center
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
