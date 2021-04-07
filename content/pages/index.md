@@ -131,7 +131,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
-  - title: lorem-ipsum
+  - title: Примеры Работ
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
