@@ -133,8 +133,7 @@ sections:
     background_image_opacity: 12
   - title: Примеры Работ
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
