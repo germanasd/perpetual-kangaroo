@@ -47,7 +47,7 @@ sections:
           данных и соглашаетесь с Политикой конфиденциальности
         is_required: true
     submit_label: Отправить
-    align_vert: top
+    align_vert: middle
     padding_top: medium
     padding_bottom: medium
     background_color: primary
