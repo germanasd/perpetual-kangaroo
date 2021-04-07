@@ -199,7 +199,9 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - title: Как Заказать Шторы?
-    subtitle: Мы не продаем готовые изделия
+    subtitle: >-
+      Каждые шторы - это индивидуальный текстильный проект, разработанный до
+      мелочей  
     actions: []
     grid_items:
       - title: ШАГ 1
