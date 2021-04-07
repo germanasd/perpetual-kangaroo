@@ -244,6 +244,27 @@ sections:
 
       Написать в [**Viber**]()
     background_image: images/44839526-A26D-426B-8726-525AD73091F5.jpeg
+  - title: Рекомендации
+    content: >
+      ![](/images/energetic-sun.jpeg)   ![](/images/caring-aspen.jpeg)  
+      ![](/images/magical-parsley.jpeg)  
+      ![](/images/photo\_2021-03-30%2014.28.42.jpeg)  
+      ![](/images/photo\_2021-03-30%2014.28.45.jpeg)  
+      ![](/images/photo\_2021-03-30%2014.28.49.jpeg)  
+      ![](/images/photo\_2021-03-30%2014.28.47.jpeg)   
+    actions: []
+    actions_position: bottom
+    actions_width: fourty
+    align: center
+    padding_top: none
+    padding_bottom: none
+    has_border: true
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
   - type: form_section
     content_align: center
     form_position: bottom
@@ -282,27 +303,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 0
     has_border: true
-  - title: Рекомендации
-    content: >
-      ![](/images/energetic-sun.jpeg)   ![](/images/caring-aspen.jpeg)  
-      ![](/images/magical-parsley.jpeg)  
-      ![](/images/photo\_2021-03-30%2014.28.42.jpeg)  
-      ![](/images/photo\_2021-03-30%2014.28.45.jpeg)  
-      ![](/images/photo\_2021-03-30%2014.28.49.jpeg)  
-      ![](/images/photo\_2021-03-30%2014.28.47.jpeg)   
-    actions: []
-    actions_position: bottom
-    actions_width: fourty
-    align: center
-    padding_top: none
-    padding_bottom: none
-    has_border: true
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
