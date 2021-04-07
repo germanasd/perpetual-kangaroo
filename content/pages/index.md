@@ -57,7 +57,7 @@ sections:
           Шторы - это украшение интерьера, защита от солнца и посторонних
           взглядов
         align: center
-      - title: Technical Content
+      - title: 'Какими они будут если изготовить их на заказ:'
         subtitle: 'Your products and services, at scale.'
         content: >-
           I will dive into the ins and outs of your product or service and make
