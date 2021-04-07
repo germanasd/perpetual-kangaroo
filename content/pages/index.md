@@ -246,7 +246,7 @@ sections:
     actions_position: right
     actions_width: fourty
     align: center
-    padding_top: none
+    padding_top: small
     padding_bottom: small
     has_border: true
     background_color: primary
