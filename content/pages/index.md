@@ -29,7 +29,9 @@ sections:
       - title: >-
           Шторы - это украшение интерьера, защита от солнца и посторонних
           взглядов
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: >-
+          Шторы - это украшение интерьера, защита от солнца и посторонних
+          взглядов
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
