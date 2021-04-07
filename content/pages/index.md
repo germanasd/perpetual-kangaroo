@@ -213,7 +213,7 @@ sections:
     type: grid_section
   - title: Вам нужны шторы?
     actions:
-      - label: lorem-ipsum
+      - label: Связаться
         url: '#'
         style: link
         has_icon: false
