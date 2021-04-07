@@ -233,7 +233,9 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: ШАГ 3
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Встреча у вас на объекте или у меня в офисе, я предлагаю варианты
+          тканей, вы выбираете
         title_align: left
         content: >-
           ## Lorem ipsum
