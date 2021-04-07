@@ -40,7 +40,7 @@ sections:
           данных и соглашаетесь с Политикой конфиденциальности
         is_required: true
       - input_type: tel
-        label: Номер телефон
+        label: Номер телефона
         default_value: lorem-ipsum
         options: []
         is_required: false
