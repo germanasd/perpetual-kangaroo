@@ -56,6 +56,9 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
+        title: >-
+          Шторы - это украшение интерьера, защита от солнца и посторонних
+          взглядов
       - title: Technical Content
         subtitle: 'Your products and services, at scale.'
         content: >-
