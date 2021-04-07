@@ -132,7 +132,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - title: Примеры Работ
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
