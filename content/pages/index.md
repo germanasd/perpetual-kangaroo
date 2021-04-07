@@ -268,7 +268,7 @@ sections:
           Нажимая на кнопку, вы даете согласие на обработку своих персональных
           данных и соглашаетесь с Политикой конфиденциальности
         is_required: true
-    submit_label: Send Message
+    submit_label: ТО
     align_vert: top
     padding_top: medium
     padding_bottom: medium
