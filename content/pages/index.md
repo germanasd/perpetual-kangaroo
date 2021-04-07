@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m Alyvia. I help my clients succeed online.'
+    title: Приветствую Вас на сайте студии штор "Portiera"
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
