@@ -78,7 +78,7 @@ sections:
           ##### и сшитые опытными мастерами по вашим размерам.
 
           ##### Из качественной ткани и фурнитуры.
-    feature_padding_vert: large
+    feature_padding_vert: small
     align: center
     background_color: secondary
   - title: Примеры Работ
