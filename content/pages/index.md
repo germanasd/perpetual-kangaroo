@@ -25,7 +25,6 @@ sections:
     has_border: true
   - type: features_section
     title: 'Я и мои мастера создаем шторы и текстиль по вашему индивидуальному заказу:'
-    subtitle: What I do
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
