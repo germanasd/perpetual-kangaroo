@@ -238,7 +238,10 @@ sections:
       Напишите или позвоните и мы договоримся о встрече и подберем шторы для вас
     background_image: images/44839526-A26D-426B-8726-525AD73091F5.jpeg
   - type: form_section
-    content: "### СВЯЖИТЕСЬ С НАМИ!\n\n#### **Instagram**\_-\_[www.instagram.com/portiera.ua](https://www.instagram.com/portiera.ua)\n\n#### **tel:0997737719**\n"
+    content: |
+      ### СВЯЖИТЕСЬ С НАМИ!
+
+      ### tel:0997737719
     content_align: left
     form_position: right
     form_width: fifty
