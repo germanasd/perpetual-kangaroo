@@ -53,7 +53,7 @@ sections:
     background_color: none
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 8
+    background_image_opacity: 0
     title_align: left
     has_border: true
     background_image: images/BAEAD16B-6C64-4B77-9FF9-D035C13D3C6B.jpeg
