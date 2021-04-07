@@ -82,6 +82,7 @@ sections:
     align: center
     background_color: secondary
     padding_top: small
+    padding_bottom: small
   - title: Примеры Работ
     features:
       - content: >
