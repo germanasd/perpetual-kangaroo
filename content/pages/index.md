@@ -24,7 +24,7 @@ sections:
     background_image_opacity: 8
     has_border: true
   - type: features_section
-    title: My services
+    title: 'Я и мои мастера создаем шторы и текстиль по вашему индивидуальному заказу:'
     subtitle: What I do
     features:
       - title: Content Creation
