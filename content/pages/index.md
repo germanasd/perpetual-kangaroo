@@ -14,7 +14,7 @@ sections:
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
-    align: right
+    align: center
     padding_top: none
     padding_bottom: small
     background_color: none
