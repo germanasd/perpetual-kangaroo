@@ -50,7 +50,7 @@ sections:
     align_vert: top
     padding_top: none
     padding_bottom: none
-    background_color: secondary
+    background_color: primary
     background_image: images/watercolor.png
     background_image_repeat: repeat
     background_image_size: contain
