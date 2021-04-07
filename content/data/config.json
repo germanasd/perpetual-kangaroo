@@ -97,7 +97,7 @@
             {
                 "label": "0997737719",
                 "url": "#",
-                "style": "primary",
+                "style": "secondary",
                 "has_icon": true,
                 "icon": "arrow-left",
                 "icon_position": "left",
