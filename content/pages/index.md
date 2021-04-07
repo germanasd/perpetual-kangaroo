@@ -123,6 +123,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: 'Вы присылаете фото окон, озвучиваете свои пожелания и размеры'
+        image: images/03BCC0E8-7BFF-4840-9EA5-A58F52954211.jpeg
       - title: ШАГ 2
         subtitle: >-
           Обсуждаем с вами детали и нюансы - я задам несколько уточняющих
