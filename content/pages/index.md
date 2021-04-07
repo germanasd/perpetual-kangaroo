@@ -139,7 +139,7 @@ sections:
           ![](/images/03BCC0E8-7BFF-4840-9EA5-A58F52954211.jpeg)
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: bottom
         media_width: fifty
         align: left
         type: feature
