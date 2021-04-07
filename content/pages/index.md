@@ -239,9 +239,7 @@ sections:
     background_image: images/44839526-A26D-426B-8726-525AD73091F5.jpeg
   - type: form_section
     content: |
-      ### СВЯЖИТЕСЬ С НАМИ!
-
-      ### tel:0997737719
+      ###
     content_align: center
     form_position: bottom
     form_width: fifty
