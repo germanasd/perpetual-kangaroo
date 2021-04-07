@@ -83,6 +83,7 @@ sections:
     background_color: secondary
     padding_top: small
     padding_bottom: small
+    has_border: true
   - title: Примеры Работ
     features:
       - content: >
