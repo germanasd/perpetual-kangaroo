@@ -30,7 +30,8 @@
         "has_anncmnt": true,
         "title": "Студия штор Portiera",
         "anncmnt_is_home_only": true,
-        "anncmnt_has_close": true
+        "anncmnt_has_close": true,
+        "anncmnt_content": "вацпауап\n"
     },
     "footer": {
         "logo_alt": "Alyvia logo",
