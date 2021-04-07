@@ -331,7 +331,7 @@ sections:
     align_vert: top
     padding_top: small
     padding_bottom: small
-    background_color: none
+    background_color: primary
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 0
