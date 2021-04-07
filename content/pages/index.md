@@ -216,6 +216,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        subtitle: 'Вы присылаете фото окон, озвучиваете свои пожелания и размеры'
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
