@@ -38,6 +38,10 @@ sections:
         media_position: right
         media_width: fifty
         align: center
+        title: >-
+          Ткани и дизайн штор подбираются и продумываются мной, и отдаются в
+          работу, согласно техническому заданию, опытным мастерам по пошиву
+          студии "Portiera".
       - actions:
           - label: Learn More
             url: /about
