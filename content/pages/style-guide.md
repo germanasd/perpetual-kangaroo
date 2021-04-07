@@ -25,4 +25,3 @@ seo:
         content
 layout: page
 ---
-> ![](/images/magical-mint.jpeg)
