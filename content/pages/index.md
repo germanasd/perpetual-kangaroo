@@ -249,7 +249,7 @@ sections:
         type: grid_item
       - title: ШАГ 4
         subtitle: 'Я просчитываю точную стоимость штор, отправляю вам для ознакомления'
-        title_align: left
+        title_align: center
         content_align: right
         actions: []
         actions_align: center
