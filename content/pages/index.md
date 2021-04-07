@@ -276,7 +276,10 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: ШАГ 6
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Далее происходит выполнение заказа в оговоренные сроки. После
+          получения штор вы вносите оставшиеся 30% стоимости и мы радуемся
+          вместе вашим новым красивым шторам
         title_align: left
         content: >-
           ## Lorem ipsum
