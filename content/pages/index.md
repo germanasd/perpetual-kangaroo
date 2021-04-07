@@ -302,7 +302,7 @@ sections:
       - input_type: tel
         name: Тел
         label: Номер телефона
-        default_value: lorem-ipsum
+        default_value: Ваш номер телефона
         options: []
         is_required: false
         type: form_field
