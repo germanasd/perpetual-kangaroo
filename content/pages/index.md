@@ -71,12 +71,7 @@ sections:
         media_width: fifty
         align: center
         content: |
-
-
-
-
-          ```
-          ```
+          $\color{#FF0000}{your-text-here}$
 
           ```
           ```
