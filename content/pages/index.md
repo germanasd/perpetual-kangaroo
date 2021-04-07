@@ -250,7 +250,7 @@ sections:
       - title: ШАГ 4
         subtitle: 'Я просчитываю точную стоимость штор, отправляю вам для ознакомления'
         title_align: left
-        content_align: center
+        content_align: right
         actions: []
         actions_align: center
         actions_width: auto
