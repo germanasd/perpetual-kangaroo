@@ -60,7 +60,7 @@ sections:
       - title: 'Какими они будут если изготовить их на заказ:'
         actions:
           - label: Связаться
-            url: /
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right
