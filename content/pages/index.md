@@ -283,17 +283,13 @@ sections:
     background_image_opacity: 0
     has_border: true
   - title: Рекомендации
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      ![](/images/energetic-sun.jpeg)   ![](/images/caring-aspen.jpeg)  
+      ![](/images/magical-parsley.jpeg)  
+      ![](/images/photo\_2021-03-30%2014.28.42.jpeg)  
+      ![](/images/photo\_2021-03-30%2014.28.45.jpeg)  
+      ![](/images/photo\_2021-03-30%2014.28.49.jpeg)  
+      ![](/images/photo\_2021-03-30%2014.28.47.jpeg)   
     actions: []
     actions_position: bottom
     actions_width: fourty
