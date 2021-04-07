@@ -70,9 +70,8 @@ sections:
         media_position: right
         media_width: fifty
         align: center
-        content: |+
-          test blue color font
-
+        content: |
+          \<font color='red'>test blue color font\</font>
     feature_padding_vert: large
     align: center
     background_color: none
