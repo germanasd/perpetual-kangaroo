@@ -45,6 +45,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        name: тел
     submit_label: Send Message
     align_vert: top
     padding_top: medium
