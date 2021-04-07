@@ -12,7 +12,7 @@ sections:
   - type: form_section
     content: "### Позвонить\_[**0997737719**](tel:+380997737719)\n\n### Написать в\_[**Viber**]()\n\n### Написать в\_[**Telegram**]()\n"
     content_align: center
-    form_position: left
+    form_position: top
     form_width: fifty
     form_layout: stacked
     enable_card: true
