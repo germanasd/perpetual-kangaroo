@@ -205,7 +205,7 @@ sections:
     actions: []
     grid_items:
       - title: Как Заказать Шторы
-        title_align: left
+        title_align: center
         content_align: center
         actions: []
         actions_align: left
