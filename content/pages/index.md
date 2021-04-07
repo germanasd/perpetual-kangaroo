@@ -362,7 +362,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Personal theme
     - name: 'twitter:image'
-      value: images/personal-preview.png
+      value: /images/scientific-rosemary.jpeg
       relativeUrl: true
 layout: advanced
 title: Студия Штор Portiera
