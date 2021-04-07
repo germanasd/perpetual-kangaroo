@@ -30,10 +30,6 @@ sections:
           Ткани и дизайн штор подбираются и продумываются мной, и отдаются в
           работу, согласно техническому заданию, опытным мастерам по пошиву
           студии "Portiera".
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
         actions:
           - label: See Writing Samples
             url: /faq
