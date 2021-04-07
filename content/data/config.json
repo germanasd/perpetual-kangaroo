@@ -90,15 +90,6 @@
                 "icon": "instagram",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.instagram.com/portiera.ua/",
-                "style": "primary",
-                "has_icon": true,
-                "icon": "linkedin",
-                "icon_position": "center",
-                "new_window": true
             }
         ],
         "content": "&copy;© 2021 <a href=\"https://portiera.in.ua\" target=\"_blank\" rel=\"noopener\">Portiera.in.ua</a>. Продвижение <a href=\"https://industriapro.com\" target=\"_blank\" rel=\"noopener\">industriapro.com</a>"
