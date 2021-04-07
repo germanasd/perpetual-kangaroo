@@ -5,7 +5,7 @@ sections:
     title: Благодарю вас!
     subtitle: "Спасибо за то, что связались со мной. Я в ближайшее время свяжусь\_с Вами. Хорошего дня!"
     actions:
-      - label: Back to homepage
+      - label: Назад на главную
         url: /
         style: primary
         has_icon: true
