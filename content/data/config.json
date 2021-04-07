@@ -93,7 +93,7 @@
             },
             {
                 "label": "Telegram",
-                "url": "#",
+                "url": "tg://resolve?domain=380997737719",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
