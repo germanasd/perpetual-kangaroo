@@ -204,7 +204,7 @@ sections:
     subtitle: Мы не продаем готовые изделия
     actions: []
     grid_items:
-      - title: Как Заказать ШторыШАГ 1
+      - title: ШАГ 1
         title_align: center
         content_align: center
         actions: []
