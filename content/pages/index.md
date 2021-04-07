@@ -56,6 +56,7 @@ sections:
         title: >-
           Шторы - это украшение интерьера, защита от солнца и посторонних
           взглядов
+        align: center
       - title: Technical Content
         subtitle: 'Your products and services, at scale.'
         content: >-
