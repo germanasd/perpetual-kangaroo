@@ -6,7 +6,7 @@ sections:
     align: center
     padding_top: none
     padding_bottom: none
-    background_color: none
+    background_color: secondary
     title: Вам нужны шторы?
     has_border: true
   - type: form_section
