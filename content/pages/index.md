@@ -110,7 +110,16 @@ sections:
           ![](/images/E20BB88E-1ED1-443B-98CA-A286362EB85E.jpeg)  
           ![](/images/E19059E2-B95C-4C0A-A376-055C1CB455B2.jpeg)  
           ![](/images/energetic-tiger.jpeg)
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         image_alt: lorem-ipsum
         media_position: bottom
         media_width: fourty
