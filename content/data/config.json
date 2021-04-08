@@ -30,7 +30,8 @@
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
         "anncmnt_content": "Студия дизайнерских штор в Харькове\n",
-        "logo_alt": "Студия дизайнерских штор Portiera в Харькове"
+        "logo_alt": "Студия дизайнерских штор Portiera в Харькове",
+        "anncmnt_align": "center"
     },
     "footer": {
         "logo_alt": "Alyvia logo",
