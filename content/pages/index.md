@@ -111,7 +111,7 @@ sections:
           ![](/images/E19059E2-B95C-4C0A-A376-055C1CB455B2.jpeg)  
           ![](/images/energetic-tiger.jpeg)
         actions:
-          - label: 'Написать на '
+          - label: Написать на Viber
             url: '#'
             style: link
             has_icon: false
