@@ -8,7 +8,7 @@
     "header": {
         "logo": "images/Портьера дизайн штор Логотип.jpeg",
         "logo_alt": "Alyvia logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "Галерея работ",
