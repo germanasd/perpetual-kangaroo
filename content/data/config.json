@@ -6,8 +6,6 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "logo": "images/Портьера дизайн штор Логотип.jpeg",
-        "logo_alt": "Alyvia logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
@@ -27,11 +25,13 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false,
-        "title": "Студия штор Portiera",
+        "has_anncmnt": true,
+        "title": "Студия дизайнерских штор в Харькове",
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
-        "anncmnt_content": "вацпауап\n"
+        "anncmnt_content": "Студия дизайнерских штор в Харькове\n",
+        "logo_alt": "Студия дизайнерских штор Portiera в Харькове",
+        "anncmnt_align": "center"
     },
     "footer": {
         "logo_alt": "Alyvia logo",
