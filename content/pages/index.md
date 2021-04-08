@@ -112,7 +112,7 @@ sections:
           ![](/images/energetic-tiger.jpeg)
         actions:
           - label: Написать на Viber
-            url: '#'
+            url: 'viber://chat?number=380997737719'
             style: primary
             has_icon: false
             icon: arrow-left
