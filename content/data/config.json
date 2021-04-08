@@ -6,7 +6,7 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
                 "label": "Галерея работ",
