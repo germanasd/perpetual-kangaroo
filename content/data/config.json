@@ -28,7 +28,7 @@
         "has_anncmnt": true,
         "title": "Студия дизайнерских штор в Харькове",
         "anncmnt_is_home_only": true,
-        "anncmnt_has_close": false,
+        "anncmnt_has_close": true,
         "anncmnt_content": "Студия дизайнерских штор в Харькове\n",
         "logo_alt": "Студия дизайнерских штор Portiera в Харькове",
         "anncmnt_align": "center"
