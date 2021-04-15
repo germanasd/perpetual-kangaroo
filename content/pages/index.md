@@ -107,19 +107,13 @@ sections:
           ![](/images/CABA6EB2-51C3-4F9E-85C9-7CCFD344E2D2.jpeg)  
           ![](/images/CCCC2165-30B4-490C-AFE0-C96E76DEDF9E.jpeg)  
           ![](/images/D05C1AD4-A5BD-4ED1-A007-362659894874.jpeg)  
-          ![](/images/E20BB88E-1ED1-443B-98CA-A286362EB85E.jpeg)  
-          ![](/images/E19059E2-B95C-4C0A-A376-055C1CB455B2.jpeg)  
-          ![](/images/energetic-tiger.jpeg)
-        actions:
-          - label: Написать на Viber
-            url: 'viber://chat?number=380997737719'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: center
-            new_window: false
-            no_follow: false
-            type: action
+          ![](/images/E20BB88E-1ED1-443B-98CA-A286362EB85E.jpeg)   
+
+
+
+
+          [Написать в Telegram](https://t.me/KatyaPort)
+        actions: []
         image_alt: lorem-ipsum
         media_position: bottom
         media_width: fourty
@@ -277,7 +271,7 @@ sections:
       Написать в [**Viber**]()
 
 
-      Написать в [**Telegram**]()
+      Написать в [**Telegram**](https://t.me/KatyaPort)
 
 
       Смотреть в [**Instagram**](https://www.instagram.com/portiera.ua/)

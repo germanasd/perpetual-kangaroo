@@ -9,11 +9,6 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Галерея работ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
                 "label": "Обо Мне",
                 "url": "/about",
                 "style": "link"
