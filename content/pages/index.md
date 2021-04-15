@@ -112,8 +112,7 @@ sections:
           ![](/images/energetic-tiger.jpeg)
 
 
-          ###                                                                    
-          Написать в [**Telegram**](https://t.me/KatyaPort)
+          ### Написать в [**Telegram**](https://t.me/KatyaPort)
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom
