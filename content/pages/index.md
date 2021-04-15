@@ -108,9 +108,9 @@ sections:
           ![](/images/CCCC2165-30B4-490C-AFE0-C96E76DEDF9E.jpeg)  
           ![](/images/D05C1AD4-A5BD-4ED1-A007-362659894874.jpeg)  
           ![](/images/E20BB88E-1ED1-443B-98CA-A286362EB85E.jpeg)  
-          ![](/images/E19059E2-B95C-4C0A-A376-055C1CB455B2.jpeg)   
+          ![](/images/E19059E2-B95C-4C0A-A376-055C1CB455B2.jpeg)
 
-                                                                                                                        Написать в [Telegram](https://t.me/KatyaPort)
+                                                                                                                     Написать в [Telegram](https://t.me/KatyaPort)
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom
