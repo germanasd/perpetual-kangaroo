@@ -112,8 +112,8 @@ sections:
           ![](/images/energetic-tiger.jpeg)
 
 
-          ###                                                                          
-          **Написать в **[**Telegram**](https://t.me/KatyaPort)
+          ###                                                                    
+          Написать в [**Telegram**](https://t.me/KatyaPort)
         actions:
           - label: Написать на Viber
             url: 'viber://tel:380997737719'
