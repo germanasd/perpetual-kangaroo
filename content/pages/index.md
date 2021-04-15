@@ -85,32 +85,7 @@ sections:
     has_border: true
   - title: Примеры Работ
     features:
-      - content: >
-          ![](/images/1B401698-80C9-4CB3-80A0-2FFACA3EEFAE.jpeg)   
-          ![](/images/2A02D513-6AA7-46E9-852A-4EB6F1DC6D53.jpeg)  
-          ![](/images/03BCC0E8-7BFF-4840-9EA5-A58F52954211.jpeg)![](/images/3ECC54A7-CE1A-4C37-9161-C681A53BAA8E.jpeg)  
-          ![](/images/6DA405F1-BE36-4330-A984-8710EE2B8C5E.jpeg)![](/images/melodic-rosemary.jpeg)  
-          ![](/images/23B410AC-77BB-481A-8EFA-4524FDCB5B02.jpeg). 
-          ![](/images/38A9A095-8122-40FE-B02C-72A8D22EF251.jpeg)  
-          ![](/images/062F87CD-2C04-4E2A-96F1-0D2ECC3ECE23.jpeg)  
-          ![](/images/68F91BFF-87EA-46F6-B85A-5DAB53DB2C2B.jpeg)  
-          ![](/images/88E0A372-FA72-4916-8C10-7B8A2B188F5E.jpeg)  
-          ![](/images/248B133C-4045-400F-B020-85E846E69ACB.jpeg)  
-          ![](/images/887C8F48-0560-4646-86C7-C61865EC6229.jpeg)  
-          ![](/images/926B4707-01A7-46AA-9017-F69B2D70FC93.jpeg)  
-          ![](/images/green-aluminum.jpeg)  
-          ![](/images/B6FBE920-1D79-4663-8C49-76BB60A61645.jpeg)  
-          ![](/images/B5859DFB-7A82-4234-8D85-A048425F53EB.jpeg)  
-          ![](/images/BA1ED827-2443-45AF-A607-9A299DA544F1.jpeg)  
-          ![](/images/BAEAD16B-6C64-4B77-9FF9-D035C13D3C6B.jpeg)  
-          ![](/images/curious-coriander.jpeg)  
-          ![](/images/CABA6EB2-51C3-4F9E-85C9-7CCFD344E2D2.jpeg)  
-          ![](/images/CCCC2165-30B4-490C-AFE0-C96E76DEDF9E.jpeg)  
-          ![](/images/D05C1AD4-A5BD-4ED1-A007-362659894874.jpeg)  
-          ![](/images/E20BB88E-1ED1-443B-98CA-A286362EB85E.jpeg)  
-          ![](/images/E19059E2-B95C-4C0A-A376-055C1CB455B2.jpeg)
-
-                                                                                                                     Написать в 
+      - content: "![](/images/1B401698-80C9-4CB3-80A0-2FFACA3EEFAE.jpeg)    ![](/images/2A02D513-6AA7-46E9-852A-4EB6F1DC6D53.jpeg)   ![](/images/03BCC0E8-7BFF-4840-9EA5-A58F52954211.jpeg)![](/images/3ECC54A7-CE1A-4C37-9161-C681A53BAA8E.jpeg)   ![](/images/6DA405F1-BE36-4330-A984-8710EE2B8C5E.jpeg)![](/images/melodic-rosemary.jpeg)   ![](/images/23B410AC-77BB-481A-8EFA-4524FDCB5B02.jpeg).  ![](/images/38A9A095-8122-40FE-B02C-72A8D22EF251.jpeg)   ![](/images/062F87CD-2C04-4E2A-96F1-0D2ECC3ECE23.jpeg)   ![](/images/68F91BFF-87EA-46F6-B85A-5DAB53DB2C2B.jpeg)   ![](/images/88E0A372-FA72-4916-8C10-7B8A2B188F5E.jpeg)   ![](/images/248B133C-4045-400F-B020-85E846E69ACB.jpeg)   ![](/images/887C8F48-0560-4646-86C7-C61865EC6229.jpeg)   ![](/images/926B4707-01A7-46AA-9017-F69B2D70FC93.jpeg)   ![](/images/green-aluminum.jpeg)   ![](/images/B6FBE920-1D79-4663-8C49-76BB60A61645.jpeg)   ![](/images/B5859DFB-7A82-4234-8D85-A048425F53EB.jpeg)   ![](/images/BA1ED827-2443-45AF-A607-9A299DA544F1.jpeg)   ![](/images/BAEAD16B-6C64-4B77-9FF9-D035C13D3C6B.jpeg)   ![](/images/curious-coriander.jpeg)   ![](/images/CABA6EB2-51C3-4F9E-85C9-7CCFD344E2D2.jpeg)   ![](/images/CCCC2165-30B4-490C-AFE0-C96E76DEDF9E.jpeg)   ![](/images/D05C1AD4-A5BD-4ED1-A007-362659894874.jpeg)   ![](/images/E20BB88E-1ED1-443B-98CA-A286362EB85E.jpeg)   ![](/images/E19059E2-B95C-4C0A-A376-055C1CB455B2.jpeg)\n\n    Написать в\_\n"
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom
