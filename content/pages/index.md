@@ -277,17 +277,10 @@ sections:
       Написать в [**Viber**]()
 
 
-      Написать в [**Telegram**]()
+      Написать в [**Telegram**](https://t.me/KatyaPort)
 
 
       Смотреть в [**Instagram**](https://www.instagram.com/portiera.ua/)
-
-
-      [Написать в Viber]()
-
-
-
-
 
     background_image: images/44839526-A26D-426B-8726-525AD73091F5.jpeg
   - title: Рекомендации
