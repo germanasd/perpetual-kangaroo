@@ -110,7 +110,7 @@ sections:
           ![](/images/E20BB88E-1ED1-443B-98CA-A286362EB85E.jpeg)  
           ![](/images/E19059E2-B95C-4C0A-A376-055C1CB455B2.jpeg)
 
-                                                                                                                     Написать в [Telegram](https://t.me/KatyaPort)
+                                                                                                                     Написать в 
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom
