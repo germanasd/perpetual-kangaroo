@@ -115,8 +115,7 @@ sections:
           ###                                                                    
           Написать в [**Telegram**](https://t.me/KatyaPort)
         actions:
-          - label: Написать на Viber
-            url: 'viber://tel:380997737719'
+          - url: 'viber://tel:380997737719'
             style: primary
             has_icon: false
             icon: arrow-left
