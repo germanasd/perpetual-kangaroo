@@ -114,15 +114,7 @@ sections:
 
           ###                                                                    
           Написать в [**Telegram**](https://t.me/KatyaPort)
-        actions:
-          - url: 'viber://tel:380997737719'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: center
-            new_window: true
-            no_follow: false
-            type: action
+        actions: []
         image_alt: lorem-ipsum
         media_position: bottom
         media_width: fourty
