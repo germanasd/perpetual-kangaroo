@@ -268,7 +268,7 @@ sections:
       Позвонить [**0997737719**](tel:+380997737719)
 
 
-      Написать в [**Viber**]()
+      Написать в [**Viber**](viber://chat?number=380997737719)
 
 
       Написать в [**Telegram**](https://t.me/KatyaPort)
