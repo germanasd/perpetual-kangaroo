@@ -367,5 +367,5 @@ seo:
       value: /images/scientific-rosemary.jpeg
       relativeUrl: true
 layout: advanced
-title: Студия дизайнерских штор Portiera. в Харькове
+title: Студия дизайнерских штор Portiera.in.ua в Харькове
 ---
