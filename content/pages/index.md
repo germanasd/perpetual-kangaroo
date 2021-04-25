@@ -58,7 +58,7 @@ sections:
         align: center
       - title: 'Какими они будут если изготовить их на заказ:'
         actions:
-          - label: Связаться
+          - label: Написать
             url: /contact
             style: primary
             has_icon: true
