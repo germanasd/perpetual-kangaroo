@@ -1,7 +1,7 @@
 {
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "bold",
+    "style": "minimal",
     "palette": "blue",
     "mode": "light",
     "base_font": "serif",
@@ -20,16 +20,17 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false,
+        "has_anncmnt": true,
         "title": "Студия дизайнерских штор в Харькове",
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
-        "anncmnt_content": "Студия дизайнерских штор в Харькове\n",
-        "logo_alt": "Студия дизайнерских штор Portiera в Харькове",
-        "anncmnt_align": "center"
+        "anncmnt_content": "Студия дизайнерских штор Portiera в Харькове\n",
+        "anncmnt_align": "center",
+        "logo": "images/remarkable-petunia.jpeg",
+        "logo_alt": "Студия дизайнерских штор Portiera в Харькове"
     },
     "footer": {
-        "logo_alt": "Alyvia logo",
+        "logo_alt": "Студия дизайнерских штор Portiera в Харькове",
         "has_primary_nav": false,
         "primary_nav_links": [
             {
@@ -102,6 +103,6 @@
         "links": []
     },
     "domain": "https://perpetual-kangaroo-db4f8.netlify.app",
-    "title": "Студия штор Portiera.in.ua",
+    "title": "Студия дизайнерских штор Portiera.in.ua в Харькове",
     "favicon": "images/Портьера дизайн штор Логотип.jpeg"
 }

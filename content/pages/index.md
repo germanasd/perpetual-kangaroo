@@ -6,7 +6,7 @@ sections:
       Я - Екатерина, дизайнер штор. Для меня шторы - это предмет интерьера,
       который вносит в дом уют и красоту !
     actions:
-      - label: Связаться
+      - label: Написать
         url: /contact
         style: primary
     image: images/photo_2021-03-30 12.27.33.jpeg
@@ -26,7 +26,7 @@ sections:
     title: 'Я и мои мастера создаем шторы и текстиль по вашему индивидуальному заказу:'
     features:
       - actions:
-          - label: Связаться
+          - label: Написать
             url: /contact
             style: primary
             has_icon: true
@@ -42,7 +42,7 @@ sections:
           работу, согласно техническому заданию, опытным мастерам по пошиву
           студии "Portiera".
       - actions:
-          - label: Связаться
+          - label: Написать
             url: /contact
             style: primary
             has_icon: true
@@ -58,7 +58,7 @@ sections:
         align: center
       - title: 'Какими они будут если изготовить их на заказ:'
         actions:
-          - label: Связаться
+          - label: Написать
             url: /contact
             style: primary
             has_icon: true
@@ -239,7 +239,7 @@ sections:
     type: grid_section
   - title: Вам нужны шторы?
     actions:
-      - label: Связаться
+      - label: Написать
         url: /contact
         style: primary
         has_icon: false
@@ -367,5 +367,5 @@ seo:
       value: /images/scientific-rosemary.jpeg
       relativeUrl: true
 layout: advanced
-title: Студия Штор Portiera
+title: Студия дизайнерских штор Portiera.in.ua в Харькове
 ---
