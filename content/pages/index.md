@@ -6,7 +6,7 @@ sections:
       Я - Екатерина, дизайнер штор. Для меня шторы - это предмет интерьера,
       который вносит в дом уют и красоту !
     actions:
-      - label: Связаться
+      - label: Написать
         url: /contact
         style: primary
     image: images/photo_2021-03-30 12.27.33.jpeg
