@@ -1,7 +1,7 @@
 {
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "bold",
+    "style": "classic",
     "palette": "blue",
     "mode": "light",
     "base_font": "serif",
