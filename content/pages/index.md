@@ -26,7 +26,7 @@ sections:
     title: 'Я и мои мастера создаем шторы и текстиль по вашему индивидуальному заказу:'
     features:
       - actions:
-          - label: Связаться
+          - label: Написать
             url: /contact
             style: primary
             has_icon: true
