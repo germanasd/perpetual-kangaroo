@@ -20,7 +20,7 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false,
+        "has_anncmnt": true,
         "title": "Студия дизайнерских штор в Харькове",
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
