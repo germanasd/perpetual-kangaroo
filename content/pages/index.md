@@ -239,7 +239,7 @@ sections:
     type: grid_section
   - title: Вам нужны шторы?
     actions:
-      - label: Связаться
+      - label: Написать
         url: /contact
         style: primary
         has_icon: false
